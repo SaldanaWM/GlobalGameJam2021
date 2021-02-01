@@ -6,6 +6,11 @@ In this zany game you well... Herd Cats! After a cat delivery man crashes on the
 
 [**Play the game in your browser!**](https://cd-projekt-deep-red.github.io/herding-cats-webgl/)
 
+
+## Personal Contributions
+
+This is a public clone of a Repo for a team project submission to the Global Game Jam 2021. Personal Contributions include Player and Game logic controllers written in C# with the Unity Engine. This game was made over 5 days with a team of 3 developers and 2 artists. 
+
 ## Build
 Requires Unity 2019.4.14f1.
 Configure project to build for WebGL.
